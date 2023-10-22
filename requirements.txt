@@ -1,0 +1,14 @@
+pyrogram==1.4
+tgcrypto
+requests
+pyromod==1.4
+yt-dlp
+aiohttp
+aiofiles
+ffmpeg
+ffprobe
+asyncio
+humanize
+Flask==2.2.2
+gunicorn==20.1.0
+pymongo[srv]==3.12.3
